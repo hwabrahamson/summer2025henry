@@ -23,10 +23,10 @@ Forgot to do these so I'll just summarize roughly by week:
 ### Sept 15-19
 * Got the roadside camera data from yongho, labelled & imported it into the sim
 * Implemented a converter to generate a dataset for a preset environment given a set of time intervals of activity
-* Implemented a new strategy type (WaitingTime) to reflect our 
+* Implemented a new strategy type (WaitingTime) to reflect some of the intricacies of our example problem setting
 
 ### Sept 22-26
-* Presented the more realistic simulation data -- still promising!
+* Presented the more realistic simulation data -- still promising gains!
 * Started cleaning up the simulation ipynb for public use
 
 ### Sept 29- Oct 3
